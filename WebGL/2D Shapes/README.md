@@ -36,4 +36,4 @@ Mouse clicks and key presses:
 - Mouse Click: makes the shape appear where the mouse is on the canvas and continues moving in the same direction at the same speed as before  
 
 **Demo Link:**  
-https://rawcdn.githack.com/grakehurst/ClassProjects/1cce86ffd74479cb3560ab14c73956eb190fd5a5/WebGL/2D%20Shapes/Code/2DShapes.html
+https://rawcdn.githack.com/grakehurst/ClassProjects/ac348cfe11165633756f741280301402e2c6020f/WebGL/2D%20Shapes/Code/2DShapes.html  

@@ -61,21 +61,7 @@ left arrow: negative x axis scaling
 r: reset the shape to the beginning location and orientation  
 
 **Live Demo:**  
-Start the program:  
-![startup](Screenshots/startup.png)  
-
-Translate on X and Y axes respectively:  
-![translation x](Screenshots/translationX.png) 
-![translation y](Screenshots/translationY.png)   
-
-Rotation on X, Y, and Z axes respectively:  
-![rotation x](Screenshots/rotationX.png)
-![rotation y](Screenshots/rotationY.png)   
-![rotation z](Screenshots/rotationZ.png)  
-
-Scaling on X and Y axes:  
-![scaling](Screenshots/scaling.png) 
-
+https://rawcdn.githack.com/grakehurst/ClassProjects/ac348cfe11165633756f741280301402e2c6020f/WebGL/3DShapes/Code/3DShapes.html
 
 ## Known bugs
 - the shape setup is slightly incorrect, so it is possible to see into or through the shape when rotating, but the general shape can still be determined  
