@@ -1,6 +1,6 @@
 # 3D Graphics with WebGL
 
-This program renders and animates a tetrahedron on a canvas space. The user is able to rotate, translate, and scale it using key presses.
+This program renders and animates a tetrahedron on a canvas space. The user is able to rotate, translate, and scale it using key presses.  
 
 ## How it works
 3DShapes.html sets up the shaders with multiple 4x4 matrices.
@@ -9,7 +9,6 @@ Mt is the translation matrix.
 Ms is the scaling matrix.
 Onkeydown and onkeyup both point to functions in 3DShapes.js 
 that will stop or start a translation based on a boolean.
-
 
 3DShapes.js sets up a tetrahedron that is rainbow colored.
 Animations for the tetrahedron are handled in the render() function.
@@ -38,47 +37,46 @@ it stays closer to the origin for longer. Scaling is first because when the scal
 The speed for each translation is set at 0.025, 
 which seems like a relatively slow speed that also moves fast enough to see the results quickly
 
-## Lessons Learned
+## Lessons Learned  
 - HTML syntax
 - JavaScript syntax
 - 3D shape creation
 - 3D animations including transformation, scaling, and rotation on multiple axes 
 
-## Usage
+## Usage  
 Open 3DShapes in a browser.  
 
-Key Presses:
-x: rotate on x axis
-y: rotate on y axis
-z: rotate on z axis
-w: positive y axis movement
-s: negative y axis movement
-d: positve x axis movement
-a: negative x axis movement
-up arrow: positive y axis scaling
-down arrow: negative y axis scaling
-right arrow: positive x axis scaling
-left arrow: negative x axis scaling
+Key Presses:  
+x: rotate on x axis  
+y: rotate on y axis  
+z: rotate on z axis  
+w: positive y axis movement  
+s: negative y axis movement  
+d: positve x axis movement  
+a: negative x axis movement  
+up arrow: positive y axis scaling  
+down arrow: negative y axis scaling  
+right arrow: positive x axis scaling  
+left arrow: negative x axis scaling  
+r: reset the shape to the beginning location and orientation  
 
-r: reset the shape to the beginning location and orientation
-
-**Screenshots of it working**
+**Screenshots of it working**  
 Start the program:  
 ![startup](Screenshots/startup.png)  
 
 Translate on X and Y axes respectively:  
-![translation x](translationX.png) 
-![translation y](translationY.png)   
+![translation x](Screenshots/translationX.png) 
+![translation y](Screenshots/translationY.png)   
 
 Rotation on X, Y, and Z axes respectively:  
-![rotation x](rotationX.png)
-![rotation y](rotationY.png)   
-![rotation z](rotationZ.png)  
+![rotation x](Screenshots/rotationX.png)
+![rotation y](Screenshots/rotationY.png)   
+![rotation z](Screenshots/rotationZ.png)  
 
 Scaling on X and Y axes:  
-![scaling](scaling.png) 
+![scaling](Screenshots/scaling.png) 
 
 
 ## Known bugs
-- the shape setup is slightly incorrect, so it is possible to see into or through the shape when rotating, but the general shape can still be determined
-- resetting the shape (r) increases animation speed
+- the shape setup is slightly incorrect, so it is possible to see into or through the shape when rotating, but the general shape can still be determined  
+- resetting the shape (r) increases animation speed  

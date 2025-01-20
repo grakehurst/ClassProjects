@@ -18,19 +18,19 @@ If the user guesses the word before running out of guesses, they win. If they ru
   
 **Screenshots of it working**
 The start of the game. User is prompted for max word length:  
-![hangman startup](hangman-startup.png)  
+![hangman startup](Screenshots/hangman-startup.png)  
 
 Number of guesses is determined by (n * 2) - 1, and the word is displayed with asteriks:  
-![number of guesses](num-guesses.png)  
+![number of guesses](Screenshots/num-guesses.png)  
 
 Incorrect Letter Guess:  
-![incorrect letter guess](incorrect-guess.png)  
+![incorrect letter guess](Screenshots/incorrect-guess.png)  
 
 Correct Letter Guess:  
-![correct letter guess](correct-guess.png)  
+![correct letter guess](Screenshots/correct-guess.png)  
 
 Game Loss, correct word is displayed:  
-![game loss](loser.png)  
+![game loss](Screenshots/loser.png)  
 
 Game Win:  
-![game win](winner.png)  
+![game win](Screenshots/winner.png)  

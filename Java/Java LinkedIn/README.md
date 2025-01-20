@@ -21,36 +21,36 @@ User actions:
 **Screenshots of it working:**
 
 Logging in, password verification, and main menu:  
-![login](<Login.png>)  
+![login](<Screenshots/Login.png>)  
   
 List all users:  
-![list all users](list-users.png)  
+![list all users](Screenshots/list-users.png)  
 
 Sign up new user:  
-![new user](new-user.png)
+![new user](Screenshots/new-user.png)
 
 Delete a user by providing their username and password:  
-![delete user](delete-user.png)
-![verify user deleted](delete-user-2.png)  
+![delete user](Screenshots/delete-user.png)
+![verify user deleted](Screenshots/delete-user-2.png)  
 
 Add a connection:  
-![add a connection](add-connection.png)  
+![add a connection](Screenshots/add-connection.png)  
 
 View the degree of separation to another user:  
-![degree of separation](degree-of-sep.png) 
+![degree of separation](Screenshots/degree-of-sep.png) 
 
 View all users sorted alphabetically:  
-![alphabetical sort](list-alphabetical.png)  
+![alphabetical sort](Screenshots/list-alphabetical.png)  
 
 View all users sorted by number of connections:  
-![list all users by connection](list-by-connection.png)  
+![list all users by connection](Screenshots/list-by-connection.png)  
 
 View all users sorted by account type:  
-![list by type](list-by-type.png)  
+![list by type](Screenshots/list-by-type.png)  
 
 Add a skillset to your profile:  
-![add a skillset](add-skillset.png)  
+![add a skillset](Screenshots/add-skillset.png)  
 
 Sign off:  
-![sign off](sign-off.png)  
+![sign off](Screenshots/sign-off.png)  
 

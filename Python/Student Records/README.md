@@ -13,7 +13,7 @@ Run the program with studentRecordsIn.txt located in the project folder. The out
 
 **Screenshots of it working**
 Input file:  
-![alt text](studentRecordsIn.png) 
+![alt text](Screenshots/studentRecordsIn.png) 
 
 Output file:  
-![alt text](studentRecordsOut.png)
+![alt text](Screenshots/studentRecordsOut.png)
