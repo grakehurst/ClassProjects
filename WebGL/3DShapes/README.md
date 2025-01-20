@@ -60,7 +60,7 @@ right arrow: positive x axis scaling
 left arrow: negative x axis scaling  
 r: reset the shape to the beginning location and orientation  
 
-**Screenshots of it working**  
+**Live Demo:**  
 Start the program:  
 ![startup](Screenshots/startup.png)  
 
